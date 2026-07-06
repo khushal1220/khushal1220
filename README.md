@@ -1,5 +1,5 @@
 ## Hi there 👋
-**I am a Unity Developer** with 4+ years** of experience building **AR/VR applications**, **multiplayer systems**, and **real-time interactive software** across **Mobile, VR, PC, and WebGL**.
+**I am a Unity Developer** with 4+ years of experience building **AR/VR applications**, **multiplayer systems**, and **real-time interactive software** across **Mobile, VR, PC, and WebGL**.
 
 🚀 Shipped **20+ projects** for startups and businesses worldwide, including a mobile game MVP with **10K+ active users** that was later acquired, and enterprise AR solutions powered by **MediaPipe Face Tracking** and **Azure Speech AI**.
 
