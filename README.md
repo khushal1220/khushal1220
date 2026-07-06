@@ -1,4 +1,9 @@
 ## Hi there 👋
+**I am a Unity Developer** with 4+ years** of experience building **AR/VR applications**, **multiplayer systems**, and **real-time interactive software** across **Mobile, VR, PC, and WebGL**.
+
+🚀 Shipped **20+ projects** for startups and businesses worldwide, including a mobile game MVP with **10K+ active users** that was later acquired, and enterprise AR solutions powered by **MediaPipe Face Tracking** and **Azure Speech AI**.
+
+🛠️ Primary focus: **Unity**, **Meta Quest**, **AR Foundation**, **Photon Multiplayer**, **Azure PlayFab**, and scalable game/application architecture.
 
 <!--
 **khushal1220/khushal1220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
